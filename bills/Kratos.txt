@@ -1,0 +1,5 @@
+Bill breakdown:
+Cookies:                  ...$3.43
+Cake:                     ...$6.99
+Tip:                      ...$10
+Total:                    ...$20.42

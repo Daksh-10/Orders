@@ -1,0 +1,6 @@
+Bill breakdown:
+Pie:                      ...$5.88
+Coke:                     ...$1.28
+Cake:                     ...$6.88
+Tip:                      ...$0
+Total:                    ...$14.04
