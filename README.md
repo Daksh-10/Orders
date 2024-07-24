@@ -1,4 +1,4 @@
-#Order CLI
+# Order CLI
 Just tried out Go for the first time. The syntax and concepts were easy. 
 This Command Line Interface creates bills and store them in the bills folder.
 
